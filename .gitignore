@@ -6,7 +6,8 @@ runserver.bat
 help.txt
 help2.txt
 SH/
-
+static/
+Main/static
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
